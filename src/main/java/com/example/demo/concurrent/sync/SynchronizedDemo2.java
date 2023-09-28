@@ -1,6 +1,6 @@
 package com.example.demo.concurrent.sync;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class SynchronizedDemo2 {
 
